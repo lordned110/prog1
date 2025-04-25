@@ -1,1 +1,62 @@
 
+Beagle,Bella,4,Barna
+Husky,Max,7,Fekete
+Bulldog,Luna,2,Feher
+Chihuahua,Toby,9,Szurke
+Rottweiler,Rocky,5,Fekete
+Poodle,Daisy,6,Voros
+Boxer,Bailey,8,Barna
+Dachshund,Lucy,3,Feher
+Cocker Spaniel,Charlie,10,Tan
+Labrador,Zoey,1,Fekete
+Doberman,Buddy,12,Kek
+Shih Tzu,Chloe,4,Barna
+Great Dane,Sadie,11,Feher
+Beagle,Milo,7,Fekete
+Bulldog,Toby,6,Szurke
+Chihuahua,Bella,3,Feher
+Rottweiler,Luna,9,Barna
+Poodle,Lucy,2,Kek
+Boxer,Max,5,Fekete
+Dachshund,Daisy,4,Voros
+Cocker Spaniel,Buddy,8,Szurke
+Labrador,Charlie,6,Barna
+Doberman,Bailey,13,Feher
+Shih Tzu,Zoey,7,Tan
+Great Dane,Rocky,10,Barna
+Beagle,Chloe,3,Fekete
+Bulldog,Bella,5,Feher
+Chihuahua,Max,1,Szurke
+Rottweiler,Toby,4,Voros
+Poodle,Sadie,6,Kek
+Boxer,Luna,9,Fekete
+Dachshund,Buddy,2,Barna
+Cocker Spaniel,Lucy,10,Feher
+Labrador,Milo,7,Szurke
+Doberman,Charlie,8,Tan
+Shih Tzu,Bailey,3,Barna
+Great Dane,Zoey,11,Kek
+Beagle,Daisy,5,Feher
+Bulldog,Chloe,4,Voros
+Chihuahua,Buddy,6,Fekete
+Rottweiler,Bella,9,Szurke
+Poodle,Max,2,Barna
+Boxer,Toby,8,Feher
+Dachshund,Luna,3,Tan
+Cocker Spaniel,Sadie,6,Kek
+Labrador,Rocky,5,Fekete
+Doberman,Lucy,7,Barna
+Shih Tzu,Charlie,10,Feher
+Great Dane,Bailey,12,Szurke
+Beagle,Zoey,3,Kek
+Bulldog,Daisy,4,Voros
+Chihuahua,Chloe,8,Feher
+Rottweiler,Max,6,Fekete
+Poodle,Toby,9,Szurke
+Boxer,Bella,7,Barna
+Dachshund,Sadie,5,Kek
+Cocker Spaniel,Luna,3,Feher
+Labrador,Buddy,10,Tan
+Doberman,Zoey,6,Voros
+Shih Tzu,Lucy,1,Feher
+Great Dane,Charlie,13,Fekete
