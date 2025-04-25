@@ -10,8 +10,8 @@ int main(int argc, char* argv[])
 {
 	ifstream fin("lista.txt");
 	if (!fin.is_open()) {
-		cout << "Hiba: nem sikerült megnyitni a lista.txt fájlt!" << endl;
-		return 1;
+		cout << "Nem sikerult megnyitni a lista.txt file-t" << endl;
+		return 0;
 	}
 	string n;
 	int max=0;
