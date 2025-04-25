@@ -19,7 +19,7 @@ struct Ball {
     }
 };
 
-void draw(const Ball& ball) {
+void draw(Ball& ball) {
 #ifdef _WIN32
     system("cls");
 #else
