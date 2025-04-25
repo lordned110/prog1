@@ -13,7 +13,6 @@ struct Dog {
 	string color;
 };
 
-
 int main(int argc, char* argv[])
 {
 	vector<Dog> kutya;
@@ -26,16 +25,13 @@ int main(int argc, char* argv[])
 		getline(ss, nev, ',');
 		getline(ss, k, ',');
 		getline(ss, szin, ',');
-
 		int ev;
 		ev = stoi(k);
-
 		Dog d;
 		d.faj = faj;
 		d.name = nev;
 		d.ev = ev;
 		d.color = szin;
-
 		kutya.push_back(d);
 	}
 	bool futtatas = true;
